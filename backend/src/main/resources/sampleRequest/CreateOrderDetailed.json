@@ -1,0 +1,139 @@
+{
+  "intent": "CAPTURE",
+  "payment_source": {
+    "paypal": {
+      "experience_context": {
+        "return_url": "https://example.com/return",
+        "cancel_url": "https://example.com/cancel",
+        "brand_name": "EXAMPLE INC",
+        "locale": "en-US",
+        "landing_page": "GUEST_CHECKOUT",
+        "shipping_preference": "GET_FROM_FILE",
+        "user_action": "PAY_NOW",
+        "payment_method": {
+          "payee_preferred": "IMMEDIATE_PAYMENT_REQUIRED",
+          "standard_entry_class_code": "TEL"
+        },
+        "preferred_payment_source": {
+          "token": {
+            "type": "BILLING_AGREEMENT",
+            "id": "B-30983582ES210193W"
+          }
+        }
+      }
+    }
+  },
+  "purchase_units": [
+    {
+      "reference_id": "PUHF",
+      "description": "Sporting Goods",
+      "invoice_id": {{$timestamp}},
+    "custom_id": "CUST-HighFashions",
+    "soft_descriptor": "HighFashions",
+    "amount": {
+      "currency_code": "USD",
+      "value": "225.00",
+      "breakdown": {
+        "item_total": {
+          "currency_code": "USD",
+          "value": "200.00"
+        },
+        "shipping": {
+          "currency_code": "USD",
+          "value": "0.00"
+        },
+        "handling": {
+          "currency_code": "USD",
+          "value": "10.00"
+        },
+        "tax_total": {
+          "currency_code": "USD",
+          "value": "20.00"
+        },
+        "shipping_discount": {
+          "currency_code": "USD",
+          "value": "0.00"
+        },
+        "discount": {
+          "currency_code": "USD",
+          "value": "5.00"
+        }
+      }
+    },
+    "payee": {
+      "email_address": "sb-jgbqn12111212@business.example.com",
+      "merchant_id": "65MXV4T2ZV6KY",
+      "display_data": {
+        "business_email": "support@example.com",
+        "business_phone": {
+          "country_code": "1",
+          "national_number": "18882211161",
+          "extension_number": "9"
+        },
+        "brand_name": "Example Business"
+      }
+    },
+    "items": [
+      {
+        "name": "Flight Ticket",
+        "description": "From SFO to MAA",
+        "sku": "sku01",
+        "unit_amount": {
+          "currency_code": "USD",
+          "value": "200.00"
+        },
+        "tax": {
+          "currency_code": "USD",
+          "value": "20.00"
+        },
+        "quantity": "1",
+        "category": "DIGITAL_GOODS"
+      }
+    ],
+    "supplementary_data": {
+      "airline": [
+        {
+          "ticket": {
+            "number": "045-2135145561",
+            "issue_date": "2018-01-19",
+            "issuing_carrier_code": "AI",
+            "travel_agency_name": "World Tours",
+            "travel_agency_code": "01"
+          },
+          "passenger": {
+            "name": {
+              "full_name": "Trini George"
+            },
+            "date_of_birth": "1981-05-31",
+            "country_code": "US"
+          },
+          "flight_leg_details": [
+            {
+              "flight_number": 101,
+              "carrier_code": "AI",
+              "service_class": "J",
+              "departure_date": "2018-02-15",
+              "departure_time": "15:30",
+              "departure_airport": "SFO",
+              "arrival_airport": "DBX",
+              "stopover_code": "X",
+              "fare_basis_code": "SPRSVR"
+            },
+            {
+              "flight_number": 102,
+              "carrier_code": "AI",
+              "service_class": "J",
+              "departure_date": "2018-02-15",
+              "departure_time": "19:05",
+              "departure_airport": "DBX",
+              "arrival_airport": "MAA",
+              "stopover_code": "O",
+              "fare_basis_code": "SPRSVR"
+            }
+          ]
+        }
+      ]
+    }
+    }
+  ]
+}

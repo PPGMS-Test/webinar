@@ -1,0 +1,29 @@
+{
+  "buyer": {
+    "firstName": "John",
+    "lastName": "Doe",
+    "email": "JohnDoe@paypal.com",
+    "phoneNumber": "1234567890",
+    "shippingAddress": {
+      "addressLine1": "173 Drury Lane",
+      "addressLine2": "100 Paypal Apartment",
+      "adminArea1": "New York City",
+      "adminArea2": "New York",
+      "postalCode": "10013",
+      "countryCode": "US"
+    }
+  },
+  "products": [{
+    "productSkuId": "psku001",
+    "productName": "Book: Aromatherapy" ,
+    "unit": 1,
+    "price": 19.90,
+    "imageUrl": "./image/book_aromatherapy.jpeg"
+  },{
+    "productSkuId": "psku002",
+    "productName": "Flower: Chrysanthemum" ,
+    "unit": 2,
+    "price": 9.90,
+    "imageUrl": "./image/flower_chrysanthemum.jpg"
+  }]
+}
