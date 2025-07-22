@@ -1,0 +1,2 @@
+这个PayPal Shanghai Integration Team举办Online Webinar的在线代码仓库. 用于存放在线课程的实例代码
+请配合Online Webinar的视频一起使用.
