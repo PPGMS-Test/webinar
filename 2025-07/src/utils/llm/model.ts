@@ -24,6 +24,6 @@ export const getVolcanoModel = () => {
     });
 
     // 这里的'model-id', 对于火山方舟来说, 是endpoint. 因为在'火山引擎'=>'在线推理'=>'推理接入点'中, 可以看到, 一个接入点对应了一个模型
-    const volcengine = provider('ep-20250617112535-jfvch')
+    const volcengine = provider('ep-numberID-xxxxx')
     return volcengine
 }
