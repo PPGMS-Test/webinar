@@ -1,0 +1,144 @@
+{
+    "product-list": [
+        {
+            "category": "便捷中式食材（适配美式厨房）",
+            "products": [
+                {
+                    "name": "Shanghai Style Low-Sodium Soy Sauce (Small Bottle)",
+                    "description": {
+                        "english": "Traditional Shanghai-brewed soy sauce with 30% less sodium, perfect for marinating, stir-frying, or as a dipping sauce. Blended with a hint of rock sugar for balanced umami. 150ml bottle, ideal for 1-2 person households.",
+                        "chinese": "上海传统工艺酿造酱油，减盐30%，适合腌制、炒菜或蘸食。添加少量冰糖平衡鲜味，150ml小瓶装，适合1-2人家庭使用。"
+                    },
+                    "price": 4,
+                    "currency": "USD",
+                    "feature": "Low-sodium formula fits American dietary habits; small size avoids waste"
+                },
+                {
+                    "name": "Organic Dragon Well Green Tea Bags",
+                    "description": {
+                        "english": "USDA-certified organic Longjing tea in individually wrapped pyramid bags. Fresh harvest from Hangzhou, with a smooth, nutty flavor. Perfect for iced tea or hot brewing. 20 bags per box.",
+                        "chinese": "USDA认证有机龙井茶，独立金字塔茶包包装。杭州当季新茶，口感醇厚带坚果香。适合冷泡或热饮，每盒20袋。"
+                    },
+                    "price": 6,
+                    "currency": "USD",
+                    "feature": "Organic certified; familiar tea bag format for American convenience"
+                },
+                {
+                    "name": "Sichuan Pepper Infused Olive Oil",
+                    "description": {
+                        "english": "Extra virgin olive oil infused with Sichuan peppercorns, creating a unique numbing-spicy flavor. Ideal for drizzling on salads, grilled meats, or pasta. 100ml bottle with dropper cap.",
+                        "chinese": "特级初榨橄榄油浸泡四川花椒，带来独特麻辣鲜香。适合沙拉调味、烤肉类或意大利面淋酱。100ml瓶装带滴管式瓶盖。"
+                    },
+                    "price": 8,
+                    "currency": "USD",
+                    "feature": "Fusion flavor bridges Chinese spices and Western cooking"
+                }
+            ]
+        },
+        {
+            "category": "家居实用小物（中西融合设计）",
+            "products": [
+                {
+                    "name": "Bamboo Desk Organizer Set",
+                    "description": {
+                        "english": "Handwoven bamboo organizer with compartments for pens, sticky notes, and phone. Features minimalist laser-etched Shanghai skyline. Natural finish fits modern home offices.",
+                        "chinese": "手工竹编桌面收纳盒，带多格层可分类放置笔、便签和手机。激光雕刻极简上海天际线，自然质感适配现代家居办公场景。"
+                    },
+                    "price": 12,
+                    "currency": "USD",
+                    "feature": "Eco-friendly bamboo; functional design for American workspaces"
+                },
+                {
+                    "name": "Silk Travel Pillowcase (Shanghai Pattern)",
+                    "description": {
+                        "english": "100% mulberry silk pillowcase with hidden zipper, printed with watercolor Shanghai street scenes. Prevents hair frizz and skin creases. Compact size for travel.",
+                        "chinese": "100%桑蚕丝旅行枕套，隐形拉链设计，印有水彩风格上海街景。减少头发毛躁和面部压痕，便携尺寸适合出行。"
+                    },
+                    "price": 18,
+                    "currency": "USD",
+                    "feature": "Luxury silk with local art; popular in American travel accessories"
+                },
+                {
+                    "name": "Magnetic Tea Infuser (Oriental Pearl Shape)",
+                    "description": {
+                        "english": "Food-grade stainless steel tea infuser shaped like Shanghai's Oriental Pearl Tower. Magnetic base doubles as a drip tray. Perfect for loose leaf tea in mugs.",
+                        "chinese": "食品级不锈钢泡茶器，东方明珠塔造型设计。磁吸底座可作接水盘，适合马克杯泡散茶使用。"
+                    },
+                    "price": 7,
+                    "currency": "USD",
+                    "feature": "Fun design sparks conversations; easy to clean for daily use"
+                }
+            ]
+        },
+        {
+            "category": "便携零食与伴手礼",
+            "products": [
+                {
+                    "name": "Almond Cookies with Osmanthus Flavor",
+                    "description": {
+                        "english": "Buttery shortbread cookies mixed with dried osmanthus flowers and California almonds. Less sweet than traditional Asian treats, pairs well with coffee. 12 individually wrapped pieces.",
+                        "chinese": "黄油曲奇融合桂花干与加州杏仁，甜度低于传统亚洲点心，适合搭配咖啡。12枚独立包装。"
+                    },
+                    "price": 5,
+                    "currency": "USD",
+                    "feature": "Balanced sweetness for American taste; great for office snacks"
+                },
+                {
+                    "name": "Shanghai Street Food Gift Box",
+                    "description": {
+                        "english": "Curated set including honey-glazed walnut, dried tangerine peel candy, and sesame seed brittle. Each item has English story card. Perfect for foodie friends.",
+                        "chinese": "精选礼盒含蜜 glaze核桃、陈皮糖和芝麻酥，每件附英文故事卡，适合送给美食爱好者朋友。"
+                    },
+                    "price": 12,
+                    "currency": "USD",
+                    "feature": "Taste of Shanghai in a box; easy to share at gatherings"
+                },
+                {
+                    "name": "Organic Lychee Fruit Leather",
+                    "description": {
+                        "english": "USDA organic lychee fruit leather with no added sugar. Chewy texture, naturally sweet. 8 pieces per pack, ideal for on-the-go snacks or lunch boxes.",
+                        "chinese": "USDA有机荔枝果丹皮，无添加糖，口感有嚼劲，天然甜味。每包8片，适合外出零食或午餐盒。"
+                    },
+                    "price": 4,
+                    "currency": "USD",
+                    "feature": "Organic certification; kid-friendly snack popular in American households"
+                }
+            ]
+        },
+        {
+            "category": "文化体验工具",
+            "products": [
+                {
+                    "name": "Mini Gongfu Tea Set (Travel Size)",
+                    "description": {
+                        "english": "Compact tea set (1 pot + 2 cups) with Shanghai skyline design. Includes 3 tea samples and English brewing guide. Perfect for beginners to explore Chinese tea culture.",
+                        "chinese": "迷你功夫茶具（1壶2杯），印有上海天际线图案。含3款试喝茶叶及英文冲泡指南，适合初学者体验中国茶文化。"
+                    },
+                    "price": 18,
+                    "currency": "USD",
+                    "feature": "Easy入门 for tea beginners; portable for home or travel"
+                },
+                {
+                    "name": "Shanghai Walking Tour Map (English)",
+                    "description": {
+                        "english": "Waterproof map with 20+ historic sites and hidden gems. Includes coffee shops and brunch spots popular among expats. Folds to pocket size.",
+                        "chinese": "防水地图含20+历史景点与小众秘境，标注外籍人士常去的咖啡馆和早午餐地点，可折叠成口袋大小。"
+                    },
+                    "price": 3,
+                    "currency": "USD",
+                    "feature": "Navigates Shanghai like a local; curated for expat interests"
+                },
+                {
+                    "name": "Chinese Brush Painting Starter Kit",
+                    "description": {
+                        "english": "Beginner set with bamboo brush, ink, rice paper, and step-by-step English guide. Learn to paint bamboo, plum blossoms, and pandas—iconic Chinese motifs.",
+                        "chinese": "初学者套装含竹笔、墨、宣纸及英文分步指南，学习绘制竹子、梅花和熊猫等中国标志性图案。"
+                    },
+                    "price": 11,
+                    "currency": "USD",
+                    "feature": "Hands-on cultural activity; no prior skills required"
+                }
+            ]
+        }
+    ]
+}

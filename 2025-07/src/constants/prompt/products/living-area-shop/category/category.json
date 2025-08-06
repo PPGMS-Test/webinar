@@ -1,0 +1,57 @@
+{
+    "US": [
+        {
+            "chinese": "便捷中式食材（适配美式厨房）",
+            "english": "Convenient Chinese Ingredients (Adapted for American Kitchens)"
+        },
+        {
+            "chinese": "家居实用小物（中西融合设计）",
+            "english": "Practical Home Gadgets (East-West Fusion Design)"
+        },
+        {
+            "chinese": "便携零食与伴手礼",
+             "english": "Portable Snacks and Souvenirs"
+        },
+        {
+
+            "chinese": "文化体验工具",
+            "english": "Culture Experience Tools"
+        }
+    ],
+    "JP": [
+        {
+            "chinese": "便捷中式食材（适配日式厨房）",
+            "japanese": "便利な中華食材（和風キッチン対応）"
+        },
+        {
+            "chinese": "家居小物（和風 × 中国元素）",
+            "japanese": "生活雑貨（和風 × 中国テイスト）"
+        },
+        {
+            "chinese": "伴手礼",
+            "japanese": "携帯スナック＆ギフト"
+        },
+        {
+            "chinese": "文化体验工具",
+            "japanese": "文化体験ツールキット"
+        }
+    ],
+    "KR": [
+        {
+            "chinese": "便捷中式食材（韩国厨房适配）",
+            "korean": "편리한 중식 재료（한국 주방 맞춤형）"
+        },
+        {
+            "chinese": "家居实用小物（韩式美学融合）",
+            "korean": "가정용 실용 소품（한류 미학 융합）"
+        },
+        {
+            "chinese": "便携零食与伴手礼",
+            "korean": "휴대용 간식 및 기념품"
+        },
+        {
+            "chinese": "文化体验工具",
+            "korean": "문화 체험 키트"
+        }
+    ]
+}

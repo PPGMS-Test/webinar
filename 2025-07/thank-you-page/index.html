@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>感谢购买 - PayPal</title>
+    <style>
+        .container {
+            max-width: 1200px;
+            margin: 40px auto;
+            padding: 20px;
+        }
+        .thank-you {
+            text-align: center;
+            margin-bottom: 40px;
+            font-size: 2.5em;
+            color: #003087;
+            padding: 20px;
+            border-bottom: 3px solid #009cde;
+        }
+        .iframe-container {
+            display: flex;
+            gap: 20px;
+            height: 80vh;
+        }
+        .iframe-wrapper {
+            flex: 1;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            overflow: hidden;
+        }
+        iframe {
+            width: 100%;
+            height: 100%;
+            border: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 class="thank-you">探索PayPal生态服务</h1>
+        
+        <div class="card-container">
+            <!-- 中国区服务卡片 -->
+            <div class="service-card cn-card">
+                <h2>
+                    <img src="https://www.svgrepo.com/show/480986/china-1.svg" 
+                         class="country-icon"
+                         alt="中国图标">
+                    PayPal中国
+                </h2>
+                <ul class="features">
+                    <li>安全便捷的跨境支付解决方案</li>
+                    <li>支持人民币结算的收付款服务</li>
+                    <li>商家一站式支付管理平台</li>
+                </ul>
+                <a href="https://www.paypal.cn" 
+                   class="visit-button"
+                   target="_blank">
+                   立即体验 →
+                </a>
+            </div>
+        
+            <!-- AI服务卡片 -->
+            <div class="service-card ai-card">
+                <h2>
+                    <img src="https://www.svgrepo.com/show/308968/smart-work-artificial-intelligence-ai.svg"
+                         class="ai-icon"
+                         alt="AI图标">
+                    PayPal AI
+                </h2>
+                <ul class="features">
+                    <li>智能风控与欺诈检测系统</li>
+                    <li>基于机器学习的支付优化</li>
+                    <li>商业智能分析解决方案</li>
+                </ul>
+                <a href="https://www.paypal.ai" 
+                   class="visit-button"
+                   target="_blank">
+                   探索未来 →
+                </a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+
+<style>
+/* 新增样式 */
+.card-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 30px;
+    padding: 20px;
+}
+
+.service-card {
+    background: white;
+    border-radius: 15px;
+    padding: 30px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+    transition: transform 0.3s ease;
+}
+
+.service-card:hover {
+    transform: translateY(-5px);
+}
+
+.cn-card {
+    border: 2px solid #003087;
+}
+
+.ai-card {
+    border: 2px solid #00C7B1;
+}
+
+.features {
+    margin: 20px 0;
+    padding-left: 20px;
+}
+
+.features li {
+    margin: 12px 0;
+    color: #666;
+}
+
+.visit-button {
+    display: inline-block;
+    padding: 12px 25px;
+    border-radius: 25px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: all 0.3s ease;
+}
+
+.cn-card .visit-button {
+    background: #003087;
+    color: white;
+}
+
+.ai-card .visit-button {
+    background: #00C7B1;
+    color: #003087;
+}
+
+.visit-button:hover {
+    opacity: 0.9;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+}
+
+/* 新增图标样式 */
+.country-icon,
+.ai-icon {
+    width: 32px;
+    height: auto;
+    margin-right: 12px;
+    vertical-align: middle;
+    transition: transform 0.3s ease;
+}
+
+.service-card:hover .country-icon {
+    transform: rotate(360deg);
+}
+
+.service-card:hover .ai-icon {
+    transform: scale(1.1);
+}
+</style>
+<script>
+    console.log("visit: gmsshanghai-thankyou.surge.sh")
+</script>
